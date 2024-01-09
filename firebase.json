@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build/web",
+    "target": "geoloc43",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "geolocation-533df"
+  },
+  "targets": {
+    "geolocation-533df": {
+      "hosting": {
+        "geoloc43": [
+          "geoloc43"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
